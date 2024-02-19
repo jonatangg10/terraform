@@ -3,5 +3,7 @@
 <hr>
 <p align="center"><i>¡ Sigue los pasos !</i></p>
 <ul>
-  <li>Lee el archivo Instalacion_Terraform.pdf</li>
+  <li>Instalacion_Terraform.pdf</li>
+  <li>Teoria_Terraform.pdf</li>
+  <li>Practica_Terraform.pdf</li>
 </ul>
