@@ -33,3 +33,14 @@ mediante el uso del intérprete de comandos de la línea de comandos.
 9. sudo ./aws/install
 10. aws --version
 
+
+// Configurar las credenciales.
+
+Funciona tanto en Windows, MacOS, Linux
+1. Abrimos aws con el usuario IAM creado previamente en el Archivo: Creación_Cuenta_AWS.pdf.
+     El usuario IAM no es el usuario Raiz con el que creamos la cuenta.
+     Te dejo el link del video de guia para la creación de la cuenta, configuración y creación de usuario IAM.
+2. Ingresamos al directorio aws producto del unzip hecho anteriormente.
+3. Estando en aws, escribimos el siguiente comando: aws configure
+4. 
+
