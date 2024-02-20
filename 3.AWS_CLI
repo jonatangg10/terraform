@@ -25,4 +25,5 @@ mediante el uso del intérprete de comandos de la línea de comandos.
 7. unzip awscliv2.zip
 8. Al hacer el unzip, se genera un nuevo directorio
 9. sudo ./aws/install
+10. aws --version
 
