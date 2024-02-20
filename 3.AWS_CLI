@@ -1,1 +1,28 @@
+AWS Command Line Interface (AWS CLI)
+
+es una herramienta de código abierto que le permite interactuar con los servicios de AWS 
+mediante el uso del intérprete de comandos de la línea de comandos.
+
+
+- INSTALACION WINDOWS
+
+1. https://docs.aws.amazon.com/es_es/cli/latest/userguide/getting-started-install.html
+2. 
+
+
+- INSTALACION LINUX - UBUNTU
+
+1. Ingresar al siguiente Link : https://docs.aws.amazon.com/es_es/cli/latest/userguide/getting-started-install.html
+2. Seleccionar la opción de LINUX.
+3. Al seleccionar linux nos muestra los siguientes comandos para la instalación.
+     - curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
+     - unzip awscliv2.zip
+     - sudo ./aws/install
+3. Ir al ubuntu y abrir la consola en ubuntu.
+4. Sudo su
+5. curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
+6. ls , para verificar la descarga del archivo .zip
+7. unzip awscliv2.zip
+8. Al hacer el unzip, se genera un nuevo directorio
+9. sudo ./aws/install
 
