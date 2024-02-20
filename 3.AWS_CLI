@@ -41,7 +41,8 @@ Funciona tanto en Windows, MacOS, Linux
      El usuario IAM no es el usuario Raiz con el que creamos la cuenta.
      Te dejo el link del video de guia para la creación de la cuenta, configuración y creación de usuario IAM.
       - https://seti.udemy.com/course/hashicorp-terraform/learn/lecture/34995966#overview
-2. Ingresamos al directorio aws producto del unzip hecho anteriormente.
-3. Estando en aws, escribimos el siguiente comando: aws configure
-4. 
+2. Estando dentro del usuario IAM, ingresamos a usuarios, al usuario IAM, credenciales de seguridad, clave de acceso, creas una.
+3. Ingresamos al directorio aws producto del unzip hecho anteriormente.
+4. Estando en aws, escribimos el siguiente comando: aws configure
+5. 
 
