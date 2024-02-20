@@ -7,7 +7,13 @@ mediante el uso del intérprete de comandos de la línea de comandos.
 - INSTALACION WINDOWS
 
 1. https://docs.aws.amazon.com/es_es/cli/latest/userguide/getting-started-install.html
-2. 
+2. Vamos hasta la session Instalación o actualización de AWS CLI, 1. Descargue y ejecute el instalador MSI y COPIAMOS 
+     el comando de consola msiexec.exe /i https://awscli.amazonaws.com/AWSCLIV2.msi
+3. Abrimos el cmd, copiamos el anterior codigo y damos enter.
+3. Al dar enter se genera una ventana de aws, aceptamos y damos permisos.
+4. Una vez terminada la instalación, cerramos la ventana cmd, y la volvemos a abrir.
+5. Al estar en la ventana cmd otra vez, escribimos el siguiente comando: aws --version.
+ 
 
 
 - INSTALACION LINUX - UBUNTU
