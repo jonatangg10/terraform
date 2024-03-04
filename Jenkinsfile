@@ -5,9 +5,15 @@ pipeline {
         LANGUAGE = 'es_CO:es'
     }
     stages {
-        stage('Build') { 
+        stage('Build') {
             steps {
-                echo pwd
+                script {
+                    // Navegar al directorio deseado
+                    sh 'cd /home/jonatan/practica_terraform/practica_01'
+                    
+                    // Verificar que estás en el directorio correcto
+                    sh 'pwd'
+                }
             }
         }
     }
