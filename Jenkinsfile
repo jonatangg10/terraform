@@ -7,10 +7,7 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                script {
-                    // Navegar al directorio deseado
-                    sh 'cd /home/jonatan/practica_terraform/practica_01'
-                    
+                dir('/home/jonatan/practica_terraform/practica_01') {
                     // Verificar que estás en el directorio correcto
                     sh 'pwd'
                 }
