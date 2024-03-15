@@ -3,5 +3,8 @@
 <hr>
 <p align="center"><i>¡ Sigue los pasos !</i></p>
 
-
+resource "azurerm_resourse_group" "example"{
+    name = "JonatanGutierrez"
+    location = ""
+}
 
